@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "imageviewapp-20190416072049-authRole",
+            "UnauthRoleArn": "arn:aws:iam::931166266961:role/imageviewapp-20190416072049-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::931166266961:role/imageviewapp-20190416072049-authRole",
+            "Region": "ap-southeast-1",
+            "DeploymentBucketName": "imageviewapp-20190416072049-deployment",
+            "UnauthRoleName": "imageviewapp-20190416072049-unauthRole",
+            "StackName": "imageviewapp-20190416072049",
+            "StackId": "arn:aws:cloudformation:ap-southeast-1:931166266961:stack/imageviewapp-20190416072049/1bb43b20-5fd5-11e9-87e2-0a14ee878cf4"
+        }
+    }
+}
