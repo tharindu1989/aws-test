@@ -8,8 +8,8 @@ const { signedUrl,bucketItems } = require('./middleware/s3')
 
 // Pull configuration variables from the environment
 const awsConfig = {
-  accessKeyId: "AKIAJCGEMASJYZ5TPGLA",
-  secretAccessKey: "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",
+  accessKeyId: "AKIAIQADHUCMYBASX25Q",
+  secretAccessKey: "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",
   region: "ap-southeast-1",
   bucket: "quasar-test-th",
 }
